@@ -134,7 +134,7 @@ display: inline-block;
     overflow: hidden;
     width: 100%;
     display: flex;
-    background-image: url(../assets/img/bg2.png);
+    background-image: url(https://jorgedanielcs.github.io/jorgewebsite/assets/img/bg2.png);
     background-repeat: no-repeat;
     background-size: 1903px 1013px;
     flex-wrap: wrap
@@ -236,7 +236,7 @@ display: inline-block;
 }
 
 .work{
-    background-image: url("/assets/img/bg5.png");
+    background-image: url("https://jorgedanielcs.github.io/jorgewebsite/assets/img/bg5.png");
 }
 
 .workGrid{
