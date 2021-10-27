@@ -1,0 +1,265 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    
+
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+nav {
+background: white;
+display: inline-block;
+width: 100%;
+height: 50px;
+position: fixed;
+filter: drop-shadow(0px -4px 11px #000000);
+z-index: 2;
+}
+
+
+nav div {
+    display: flex;
+    position: relative;
+    margin-left: 37%;
+    width: 30%;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 1em;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+.logo{
+    float: left;
+    margin: 3px;
+    margin-left: 20%;
+}
+
+.logo img{
+    display: inline-block;
+    height: 80%;
+    width: 40px;
+}    
+
+nav div a{
+
+    display: inline-block;
+}
+
+
+header{
+    height: 243px;
+}
+
+header div{
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+header div img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 278px;
+   
+}
+
+header div  h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Reem Kufi', sans-serif;
+    color: white;
+    font-size: 0.8em;
+    font-weight: 300;
+    top: 213px;
+    position: absolute;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+header div span{
+    background-color: black;
+}
+
+.aboutCont{
+    background: white;
+width: 100%;
+display: inline-block;
+}
+
+.about{
+    display: flex;
+    width: 60%;
+    height: 100%;
+    justify-content: space-between;
+    margin: auto;
+    padding: 50px;
+    font-family: 'Proxima Nova' ;
+    gap: 40px;
+    text-align: justify;
+   }
+
+.about span{
+    background-color: black;
+    font-family: "Proxima Nova";
+    color: white;
+    position: absolute;
+    margin-top: 334.5px;
+    margin-left: 189px;
+}
+
+.about img{
+    width: 286px;
+    height: 355px;
+    
+}
+
+.textAbout{
+    margin-top: -28px;
+}
+
+.div2{
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    background-image: url(../assets/img/bg2.png);
+    background-repeat: no-repeat;
+    background-size: 1903px 1013px;
+    flex-wrap: wrap
+}
+
+.div2 img{
+    position: relative;
+    transform: scale(1.32, 1.32);
+    left: 230px;
+    top: 123px;
+}
+
+.contDiv2{
+    z-index: 1;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    font-family: Montserrat;
+    margin: 3% 20% 1%;
+
+}
+
+
+
+.soft{
+    color: white;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+    text-shadow: -3px -3px 0 #ff5ef9, 0 -3px 0 #ff5ef9, 3px -3px 0 #ff5ef9, 3px 0 0 #ff5ef9, 3px 3px 0 #ff5ef9, 0 3px 0 #ff5ef9, -3px 3px 0 #ff5ef9, -3px 0 0 #ff5ef9;
+
+}
+
+.tech{
+    color: white;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+    text-shadow: -3px -3px 0 #B556FA, 0 -3px 0 #B556FA, 3px -3px 0 #B556FA, 3px 0 0 #B556FA, 3px 3px 0 #B556FA, 0 3px 0 #B556FA, -3px 3px 0 #B556FA, -3px 0 0 #B556FA;
+}
+
+.techleft{
+    padding-right: 10vw;
+}
+
+.contDiv2 ul{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: -23px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+}
+
+
+.chrono{
+    display: flex;
+    margin: 3% 20% 3%;
+    font-family: Montserrat;
+    color: white;
+    flex-direction: column;
+    border-left: 5px solid;
+    border-image-source: linear-gradient(180deg, #FF5EF9, #B556FA);
+    border-image-slice: 1;
+}
+
+.chronoitem{
+    display: flex;
+}
+
+.chronodate{
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.chronodesc{
+    margin-left: 20px;
+}
+
+.footer {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    margin: 0% 20% 0% 20%;
+    justify-content: space-between;
+}
+
+.socials :nth-child(2){
+    padding-left:10px;
+    
+}
+
+.socials{
+    margin-top: 4px;
+}
+
+.work{
+    background-image: url("/assets/img/bg5.png");
+}
+
+.workGrid{
+    display: flex;
+    padding: 4% 20% 4% 20%;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.workCard{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 60px;
+    align-items: center;
+    
+}
+
+.workCard img{
+    border-radius: 8px;
+    height:350px;
+
+}
