@@ -663,6 +663,10 @@ footer{
         
     }
 
+    .about span{
+        margin-left: 212px;
+    }
+
     .imgAbout2{
         display: none;
     }
