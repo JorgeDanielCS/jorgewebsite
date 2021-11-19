@@ -223,7 +223,7 @@ display: inline-block;
     overflow: hidden;
     width: 100%;
     display: flex;
-    background-image: url(/assets/img/bg2.png);
+    background-image: url(https://jorgedanielcs.github.io/jorgewebsite/assets/img/bg2.png);
     background-repeat: no-repeat;
     background-size: 1903px 1013px;
     flex-wrap: wrap;
@@ -352,7 +352,7 @@ footer{
     margin-right: 2%;
 }
 .work{
-    background-image: url("/assets/img/bg5.png");
+    background-image: url("https://jorgedanielcs.github.io/jorgewebsite/assets/img/bg5.png");
 }
 
 .workGrid{
@@ -613,7 +613,7 @@ footer{
         }
 
         .contactCardBG{
-            background-image: url(/assets/img/rect.png);
+            background-image: url(https://jorgedanielcs.github.io/jorgewebsite/assets/img/rect.png);
         }
 
         .chronodate{
@@ -834,7 +834,7 @@ header div  h2{
 
 .contactCardBG{
     display: flex;
-    background-image: url(/assets/img/rect.png);
+    background-image: url(https://jorgedanielcs.github.io/jorgewebsite/assets/img/rect.png);
     height: 555px;
     background-repeat: no-repeat;
     margin: 0 auto 0 auto;
