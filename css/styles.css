@@ -273,7 +273,7 @@ display: inline-block;
 
 .techleft{
     
-    margin-right: 5%;
+    margin-right: 9%;
 }
 
 
@@ -506,7 +506,7 @@ footer{
 }
 
 .contDiv2{
-    margin: 23px auto 20px auto;
+    margin: 23px -20px 20px auto;
 }
 
 
