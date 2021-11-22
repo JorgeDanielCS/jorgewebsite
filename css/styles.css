@@ -74,7 +74,7 @@ nav{
     text-align: center;
     list-style-type: none;
     justify-content: space-evenly;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-size: 30px;
     padding: 0;
     font-weight: 600;
@@ -84,7 +84,7 @@ nav{
 .navMenu p{
     position: absolute;
     display: block;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-size: 13px;
     top: 95%;
     right: 10px;
@@ -211,7 +211,7 @@ display: inline-block;
 }
 
 .textAbout h1{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-weight: 700;
 }
 
@@ -245,7 +245,7 @@ display: inline-block;
     justify-content: space-between;
     display: flex;
     flex-wrap: wrap;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     margin: 2% 2% 0px 5%;
 
 }
@@ -254,7 +254,7 @@ display: inline-block;
 
 .soft{
     color: white;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: italic;
     font-weight: 900;
     font-size: 30px;
@@ -264,7 +264,7 @@ display: inline-block;
 
 .tech{
     color: white;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: italic;
     font-weight: 900;
     font-size: 30px;
@@ -290,7 +290,7 @@ display: inline-block;
 
 .chrono{
     display: flex;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     width: 90%;
     margin: 50px 2% 48px 3%;
     color: white;
@@ -320,7 +320,7 @@ footer{
 }
 
 .footer {
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-weight: 500;
     font-size: 9px;
     display: flex;
@@ -366,7 +366,7 @@ footer{
 }
 
 .workCard{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-weight: 500;
     font-size: 20px;
     color: white;
@@ -417,7 +417,7 @@ footer{
 }
 
 .contactCont p:first-child{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: italic;
     font-weight: 900;
     font-size: 25px;
@@ -458,7 +458,7 @@ footer{
 }
 
 .contactinfo p{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: italic;
     font-weight: 400;
     font-size: 14px;
@@ -582,7 +582,7 @@ footer{
         }
         
         .workCard{
-            font-family: Montserrat;
+            font-family: 'Montserrat';
             font-weight: 500;
             font-size: 20px;
             color: white;
@@ -659,6 +659,7 @@ footer{
         margin: auto;
         padding: 50px 0 10px 0;
         font-family: 'Proxima Nova';
+        src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regular.otf);
         font-size: 16px;
         gap: 40px;
         text-align: justify;
@@ -725,6 +726,7 @@ header div  h2{
     display: block;
     background-color: black;
     font-family: "Proxima Nova";
+    src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regular.otf);
     color: white;
     position: absolute;
     margin-top: 334.5px;
@@ -783,7 +785,7 @@ header div  h2{
 }
 
 .workCard{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-weight: 500;
     font-size: 20px;
     color: white;
@@ -827,7 +829,7 @@ header div  h2{
 }
 
 .contactCont p:first-child{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: italic;
     font-weight: 900;
     font-size: 40px;
@@ -867,7 +869,7 @@ header div  h2{
 }
 
 .contactinfo p{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: italic;
     font-weight: 400;
     font-size: 18px;
