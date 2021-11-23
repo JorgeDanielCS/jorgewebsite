@@ -177,8 +177,8 @@ display: inline-block;
     flex-direction: column;
     font-weight: 500;
     font-size: 14px;
-    font-family: Proxima Nova;
-    src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regular.otf);
+    font-family: Proxima Novea;
+    src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regulare.otf);
     gap: 40px;
     text-align: justify;
    }
