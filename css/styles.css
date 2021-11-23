@@ -1,3 +1,8 @@
+@font-face{
+    font-family: "Proxima Nova" ;
+    src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regular.otf);
+}
+
 @media only screen and (min-width: 100px){
 
 
@@ -177,8 +182,7 @@ display: inline-block;
     flex-direction: column;
     font-weight: 500;
     font-size: 14px;
-    font-family: Proxima Novea;
-    src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regulare.otf);
+    font-family: "Proxima Nova";
     gap: 40px;
     text-align: justify;
    }
@@ -659,8 +663,7 @@ footer{
         justify-content: space-between;
         margin: auto;
         padding: 50px 0 10px 0;
-        font-family: Proxima Nova;
-        src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regular.otf);
+        font-family: "Proxima Nova";
         font-size: 16px;
         gap: 40px;
         text-align: justify;
@@ -724,8 +727,7 @@ header div  h2{
 .about span{
     display: block;
     background-color: black;
-    font-family: Proxima Nova;
-    src: url(https://jorgedaniels.com/assets/fonts/ProximaNova-Regular.otf);
+    font-family: "Proxima Nova";
     color: white;
     position: absolute;
     margin-top: 334.5px;
